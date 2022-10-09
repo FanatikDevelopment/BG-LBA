@@ -1,0 +1,3 @@
+[submodule "thirdparty/NearInfinity"]
+	path = thirdparty/NearInfinity
+	url = git@github.com:Argent77/NearInfinity.git
