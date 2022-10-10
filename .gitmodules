@@ -1,3 +1,6 @@
 [submodule "thirdparty/NearInfinity"]
 	path = thirdparty/NearInfinity
 	url = git@github.com:Argent77/NearInfinity.git
+[submodule "thirdparty/weidu"]
+	path = thirdparty/weidu
+	url = git@github.com:WeiDUorg/weidu.git
